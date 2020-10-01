@@ -1,4 +1,4 @@
-# Food-Recognition
+# Food-Recognition Using MATLAB
 
 ## Sections 
 + [Objective](https://github.com/vipul-khatana/Food-Recognition#objective)
